@@ -1,4 +1,4 @@
-## Databricks Seattle Libraries Dataset Project
+## Seattle Libraries Dataset Project
 A project using Databricks, SQL, PySpark, and Python to analyze the open Seattle libraries dataset
 
 This open source dataset for 2005-present can be found at [Seattle Libraries Dataset](https://data.seattle.gov/Community-and-Culture/Checkouts-by-Title/tmmm-ytt6/data_preview) (12G)
